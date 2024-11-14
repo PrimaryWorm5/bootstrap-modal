@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-modal-custom",
   "version": "2.2.5",
-  "description": "Bootstrap Modal (w/ animation) addon for Ember CLI",
+  "description": "Bootstrap Modal (w/ animation) addon for Ember CLI with newer version of liquid-wormhole.",
   "keywords": [
     "ember-addon",
     "bootstrap",
@@ -10,9 +10,9 @@
     "ember",
     "ui"
   ],
-  "repository": "https://github.com/knownasilya/bootstrap-modal",
+  "repository": "https://github.com/PrimaryWorm5/bootstrap-modal",
   "license": "MIT",
-  "author": "Ilya Radchenko",
+  "author": "PrimaryWorm5",
   "directories": {
     "doc": "doc",
     "test": "tests"
